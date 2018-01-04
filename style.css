@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
-
 body {
 	font-family: 'Montserrat', sans-serif !important; 
 	text-align: center !important;
@@ -20,8 +18,70 @@ h1 {
 	padding-bottom: 15px;
 	margin-bottom: 5px;
 	border-bottom: 2px solid #044263;
+	color: #0A4461;
+	text-align: center;
+}
+.h {
+	margin-top: 20px;
+	padding-bottom: 15px;
+	margin-bottom: 5px;
+	border-bottom: 2px solid #044263;
+	border-right: 15px solid #fff;
+	border-left: 15px solid #fff;
+	color: #0A4461;
+	text-align: center;
 }
 .head {
 	margin-top: 2%;
 	margin-bottom: 2%;
+}
+#universities {
+	margin-top: 3%;
+	margin-bottom: 3%;
+	font-size: 1.1em;
+	font-weight: 600;
+	height: 60px;
+}
+a {
+	color: #0E6088 !important;/* 008DD2 */
+}
+.site {
+	font-weight: 500;
+}
+li {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+a:hover {
+	text-decoration: none !important;
+	color: #47A8DF !important;
+}
+.el2 {
+	text-align: left;
+}
+.first {
+	margin-top: 40px;
+}
+table {
+	width: 100%;
+}
+.no {
+	width: 5%;
+	font-size: 1.2em;
+}
+.lo {
+	width: 30%;
+	font-size: 1.2em;
+}
+.co {
+	width: 60%;
+	font-size: 1.2em;
+	
+}
+td {
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: left;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
